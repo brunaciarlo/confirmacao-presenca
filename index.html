@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="icon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="media-query.css">
+    <title>Formatura Bruna</title>
+</head>
+<body>
+    <main>
+        <section class="confirma-presenca">
+            <div id="imagem"></div>
+            <div id="div-form">
+                <div class="header">
+                    <h2>Formatura Bruna</h2>
+                    <img src="ornament.png" alt="ornament" id="ornament">
+                    <p>22.03.25 às 20h30</p>
+                </div>
+                <form id="presenca-form">
+                    <label for="numero" id="label-numero">Deseja confirmar quantas pessoas?</label><br>
+                    <input type="number" inputmode="numeric" name="numero" id="numero" placeholder="nº" required> <br>
+                    <div class="convidados hidden"></div>
+                    <div id="campos-hidden"></div>
+                    <button id="botao-confirmar" type="submit">Confirmar</button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <div id="loading-popup">
+        <div class="spinner"></div>
+        <p>Enviando confirmação...</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

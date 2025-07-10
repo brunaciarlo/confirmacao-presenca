@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 1000px) and (max-width: 1500px){
+    #ticket-vertical {
+        display: none;
+    }
+
+    #ticket-horizontal{
+        display: block;
+        width: 65vw;
+        position: absolute;
+        top: 45%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
+
+@media screen and (min-width: 1500px){
+    #ticket-vertical {
+        display: none;
+    }
+
+    #ticket-horizontal{
+        display: block;
+        width: 50vw;
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
