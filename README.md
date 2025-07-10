@@ -21,7 +21,7 @@
 <p align="center">
   <img src="./telas/tela-inicial.JPG" alt="Imagem tela inicial" width="450px">
   <img src="./telas/tela-nomes.JPG" alt="Imagem tela com nomes confirmados" width="450px">
-  <img src="./telas/tela-mobile.JPG" alt="Imagem tela versão mobile" width="300px">
+  <img src="./telas/tela-mobile.JPG" alt="Imagem tela versão mobile" width="200px">
   <img src="./telas/tela-confirmacao.JPG" alt="Imagem tela confirmação" width="450px">
 </p>
 
@@ -51,7 +51,7 @@ Para fins de segurança, esse endpoint foi removido nesta versão publicada. A e
 <p align="center">
   <img src="./telas/tela-inicial.JPG" alt="Imagem tela inicial" width="450px">
   <img src="./telas/tela-nomes.JPG" alt="Imagem tela com nomes confirmados" width="450px">
-  <img src="./telas/tela-mobile.JPG" alt="Imagem tela versão mobile" width="170px">
+  <img src="./telas/tela-mobile.JPG" alt="Imagem tela versão mobile" width="200px">
   <img src="./telas/tela-confirmacao.JPG" alt="Imagem tela confirmação" width="450px">
 </p>
 
